@@ -4,7 +4,7 @@ Decompression, splicing, renaming and classification of HNCORS data files.
 对 HNCORS 的数据文件进行解压缩、拼接、重命名和分类操作。
 
 ## Implementation of features / 功能的实现
-实现情况 | 功能
+实现情况 | 功能
 --------- | -------------
 ✔︎ | 观测文件的解压缩
 ✘ | 观测文件的拼接
