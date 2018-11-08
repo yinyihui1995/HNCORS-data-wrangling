@@ -27,6 +27,7 @@ def unZip(rootDir):
                     pass
             
 
+# 待处理的文件目录
 file_path = '/Users/yinyihui/Desktop/2017data'
 # 设置需要保存解压文件的目录
 saveDir = file_path + "_files"
