@@ -34,5 +34,5 @@ file_path = 'yourFilePath'
 # 设置需要保存解压文件的目录
 saveDir = file_path + "_files"
     
-number = 0
+#number = 0
 unZip(file_path)
