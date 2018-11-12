@@ -13,7 +13,6 @@ Realization / 实现情况 | features / 功能
 
 ## Directory structure of data files / 数据文件的目录结构
 
-目录大致结构：
 ```
 ├─001
 │  ├─CD**
