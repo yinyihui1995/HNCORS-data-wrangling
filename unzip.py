@@ -30,12 +30,13 @@ def unZip(rootDir):
                     pass
             
 
-# 待处理的文件目录
-#file_path = '/Users/yinyihui/Desktop/2017data'
-file_path = 'yourFilePath'
+if __name__ == '__main__':
+    # 待处理的文件目录
+    #file_path = '/Users/yinyihui/Desktop/2017data'
+    file_path = 'yourFilePath'
 
-# 设置需要保存解压文件的目录
-saveDir = file_path + "_files"
+    # 设置需要保存解压文件的目录
+    saveDir = file_path + "_files"
     
-#number = 0
-unZip(file_path)
+    #number = 0
+    unZip(file_path)
